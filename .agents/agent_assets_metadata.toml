@@ -1,0 +1,38 @@
+uploads = []
+outputs = []
+
+[[generated]]
+id = "ZQsSzB2o1oCnG1xnuQJZL"
+uri = "file://artifacts/brs-website/public/hero-bg.png"
+type = "image"
+title = "hero gym background"
+
+[[generated]]
+id = "IevIeDGAhc0EL2eAK4aNo"
+uri = "file://artifacts/brs-website/public/transform-1.png"
+type = "image"
+title = "transformation after shot 1"
+
+[[generated]]
+id = "-uJB8T2ZX1dEyvKCscHfd"
+uri = "file://artifacts/brs-website/public/transform-2.png"
+type = "image"
+title = "transformation after shot 2"
+
+[[generated]]
+id = "VMWWjz4-aWch_cVNJcRio"
+uri = "file://artifacts/brs-website/public/gallery-1.png"
+type = "image"
+title = "gallery dark gym training 1"
+
+[[generated]]
+id = "cb32iLmUbW2OYMUlwhXGC"
+uri = "file://artifacts/brs-website/public/gallery-2.png"
+type = "image"
+title = "gallery dark gym training 2"
+
+[[generated]]
+id = "TOY7YMykyL79VRh7ZSiAu"
+uri = "file://artifacts/brs-website/public/gallery-3.png"
+type = "image"
+title = "gallery dark gym training 3"

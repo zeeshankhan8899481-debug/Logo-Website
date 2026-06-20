@@ -1,0 +1,190 @@
+Create a modern, high-converting, visually powerful website for a fitness and body transformation brand called **“Body Reshaping Studio”** located in Rawalpindi, Pakistan.
+
+The goal is to design a premium fitness website that focuses on **body transformation, coaching, discipline, and real client results**, not just a normal gym website. It should feel inspiring, motivational, and trust-building.
+
+---
+
+## Overall Design Style
+
+* Modern, bold, fitness-focused design
+* Dark theme with neon red / black / white accents (power + energy feel)
+* High-impact typography (strong, athletic fonts)
+* Full-screen hero sections
+* Smooth scroll animations and parallax effects
+* Mobile-first responsive design
+* Premium fitness brand aesthetic (like international transformation studios)
+
+---
+
+## Brand Positioning
+
+Body Reshaping Studio is not just a gym — it is a transformation studio that helps people reshape their bodies through training, discipline, and guided fitness programs.
+
+Focus messaging:
+
+* Body transformation
+* Fat loss programs
+* Muscle building
+* Personal coaching
+* Lifestyle change
+
+---
+
+## Hero Section
+
+Headline:
+“Transform Your Body. Transform Your Life.”
+
+Subheadline:
+“Rawalpindi’s trusted body transformation studio helping you reshape your physique with expert coaching and proven training programs.”
+
+Buttons:
+
+* Start Transformation
+* Call / WhatsApp Now
+
+Display badges:
+
+* ⭐ 4.6 Rating (215+ Reviews)
+* 📍 Range Rd, Afshan Colony, Rawalpindi
+* 🕒 Open 24 Hours (Most Days)
+
+---
+
+## About Section
+
+Explain:
+Body Reshaping Studio is a dedicated fitness transformation center focused on personalized training, discipline-based coaching, and result-oriented fitness programs. It is designed for people who want real physical change, not just gym workouts.
+
+---
+
+## Services Section
+
+Create bold cards for:
+
+* Weight Loss Programs
+* Muscle Building Training
+* Personal Coaching
+* Body Transformation Plans
+* Strength & Conditioning
+* Cardio Training
+* Nutrition Guidance (if applicable)
+
+---
+
+## Transformation / Proof Section (VERY IMPORTANT)
+
+Create a high-impact section called:
+
+“Real Transformations. Real Results.”
+
+Include:
+
+* Before/after style layout (placeholders for client results)
+* Progress stories
+* Motivational captions
+
+---
+
+## Instagram + Facebook Integration (CRITICAL SECTION)
+
+Create a section called:
+
+“Live From Our Studio”
+
+Integrate social media content:
+
+### Instagram Feed
+
+Embed or simulate a live Instagram gallery from:
+https://www.instagram.com/bodyreshapingstudio/
+
+Show:
+
+* Workout reels
+* Client training sessions
+* Gym environment
+* Transformation posts
+
+### Facebook Feed
+
+Embed posts/videos from:
+https://www.facebook.com/bodyreshapingstudio
+
+Include:
+
+* Client success videos
+* Training clips
+* Community engagement posts
+
+Add note:
+“Follow us for daily transformation updates”
+
+---
+
+## Why Choose Us Section
+
+Highlight:
+
+* 4.6★ Rated Gym in Rawalpindi
+* 215+ Google Reviews
+* 24/7 availability (most days)
+* Experienced trainers
+* Result-driven training system
+* Transformation-focused approach
+* Motivational environment
+
+---
+
+## Testimonials Section
+
+Show review-style cards:
+
+* “Best gym for body transformation in Rawalpindi”
+* “Great trainers and amazing results”
+* “Highly disciplined and motivating environment”
+
+---
+
+## Contact Section
+
+* Phone/WhatsApp: 0305 8562226
+* Location: Range Rd, Afshan Colony, Rawalpindi
+* Embedded Google Map:
+  https://www.google.com/maps/place/body+reshaping+studio+google/data=!4m2!3m1!1s0x38df9527b6258b19:0x1bb120f7307e1566
+
+Buttons:
+
+* Call Now
+* WhatsApp Now
+* Get Directions
+
+---
+
+## Footer
+
+* Social links (Instagram + Facebook clickable)
+* Address
+* Copyright
+* Quick links
+
+---
+
+## Technical Requirements
+
+* Fast loading optimized website
+* SEO optimized for “gym in Rawalpindi” and “body transformation studio”
+* Fully responsive (mobile-first)
+* Sticky navigation bar
+* Floating WhatsApp button
+* Scroll animations for engagement
+* Lazy-loaded images and videos
+* Embedded Instagram/Facebook content for real-time social proof
+
+---
+
+## Important Goal
+
+The website must feel like a **premium fitness transformation brand**, not a basic gym website. It should instantly build trust and make visitors feel:
+
+“This is where I will change my body.”
